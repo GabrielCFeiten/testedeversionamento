@@ -1,2 +1,2 @@
 # testedeversionamento
-jogo feito para nota do bimestre em front-end
+teste para aprender a utilizar git e github, seguindo passo a passo ensinado por Gustavo Guanabara
